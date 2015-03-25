@@ -1,5 +1,5 @@
-[3DS] mset 4.x - firmlaunchax
-by Roxas75
+[3DS] mset 4.x - firmlaunchax, by Roxas75
+
 =======
 
 This is a porting of firmlaunchax, the exploit used by Gateway to get arm9 kernel code execution on firmwares below 9.2,
